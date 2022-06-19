@@ -1,0 +1,19 @@
+
+.nav{
+    grid-area: n;
+    background-color:bisque;
+  }
+
+.nav .item{
+    color: black;
+  }
+
+
+.item a.active{
+    color: rgb(51, 151, 40);
+    font-weight: bold;
+  }
+
+  .item a{
+    text-decoration: none;
+  }
